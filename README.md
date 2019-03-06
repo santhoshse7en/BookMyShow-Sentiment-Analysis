@@ -17,7 +17,7 @@ Usage
 Download it by clicking the green download button here on Github. You only need to parse argument specific BookMyShow Movie_URL.
 
     > python main.py --movie_url https://in.bookmyshow.com/hyderabad/movies/20/ET00042213/
-    
-                                    or
-    
+
+or
+
     > python main.py -m https://in.bookmyshow.com/hyderabad/movies/20/ET00042213/

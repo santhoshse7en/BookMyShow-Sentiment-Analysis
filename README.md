@@ -21,3 +21,6 @@ Download it by clicking the green download button here on Github. You only need 
 or
 
     > python main.py -m https://in.bookmyshow.com/hyderabad/movies/20/ET00042213/
+
+Output
+======
